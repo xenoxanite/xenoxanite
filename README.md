@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @xenoxanite
-- 👀 I’m interested in machine learning and ethical hacking.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on any open source project.
-- 📫 You can reach me in [Discord](https://discordapp.com/users/901332259230064692)
-
-<!---
-xenoxanite/xenoxanite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="justify">
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm @Xenoxanite, I'm a Student, Programmer.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&height=80&lines=I'm+dumb;Just+a+little+brat;Linux+enthusiast;Learning+machine+learning;Interested+in+machine+learning+%26+ethical+hacking)](https://git.io/typing-svg">
+      <br>
+      <b>
+        ~ anonymous guy ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+</div>
