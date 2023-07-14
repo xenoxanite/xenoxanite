@@ -8,7 +8,7 @@
         I'm a Student, Programmer.
       </b>
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&height=80&lines=I'm+dumb;Just+a+little+brat;Linux+enthusiast;Open+source+developer;Learning+machine+learning;Interested+in+machine+learning+%26+ethical+hacking">
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=500&color=89B4FA&center=true&vCenter=true&width=650&height=80&lines=I'm+dumb;Just+a+little+brat;Linux+enthusiast;Open+source+developer;Learning+machine+learning;Interested+in+machine+learning+%26+ethical+hacking">
       <br>
       <b>
         ~ anonymous guy ~
