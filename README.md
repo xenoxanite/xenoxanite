@@ -1,6 +1,6 @@
 <div align="center">
   
-![Huuuu](https://raw.githubusercontent.com/xenoxanite/.emacs.d/main/assets/logo.jpg)
+![Huuuu]([https://raw.githubusercontent.com/xenoxanite/.emacs.d/main/assets/logo.jpg](https://avatars.githubusercontent.com/u/137907119?v=4))
   
 <h1 align="center">Hi 👋, I'm Xenoxanite</h1>
 
