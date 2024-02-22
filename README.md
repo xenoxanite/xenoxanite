@@ -29,7 +29,7 @@
 
 ## Other Skills
 
-[![Other Skills](https://skillicons.dev/icons?i=actix,linux,nix,git,github,vim,neovim,emacs,firebase,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=linux,nix,git,github,vim,neovim,emacs,firebase,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
 
 
 </div>
