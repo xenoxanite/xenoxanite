@@ -1,35 +1,33 @@
-<div align="center">
+<div align="center" style="font-family:monospace;">
   
-![Huuuu](https://avatars.githubusercontent.com/u/137907119?v=4)
+<img src="https://avatars.githubusercontent.com/u/137907119?v=4" alt="drawing" style="border-radius:10%;width:140px"/>
   
 <h1 align="center">Hi 👋, I'm Xenoxanite</h1>
 
 
-<h3 align="center">Nerdy Logician Computer Science Engineer from Bangladesh (self tought)</h3>
+<h3 align="center">Nerdy Logician Computer Science Guy from Bangladesh</h3>
 
 #
 
-- My name is Xenoxanite (FAHIM).
+My name is Xenoxanite (FAHIM).
 
-- I like low level programming.
+I like low level programming.
 
-- I learn almost everythings like ML, Embedded, Linux, Web, Cli, Software etc...
+I learn almost everythings like ML, Embedded, Linux, Web, Cli, Software etc...
 
-- I've Deep Understanding Of Computer Science And STEM Stuffs.
+I've Deep Understanding Of Computer Science And STEM Stuffs.
 
-- Rust, Cpp and C are my Fav Langs.
-
-- Fun Fact ```I'm virgin 😁```
+Rust, Cpp and C are my Fav Langs.
 
 <div align="left">
 
 ## Language Skills
 
-[![Language Skills](https://skillicons.dev/icons?i=rust,c,cpp,py,lua,bash,js,ts,md,html,css&theme=dark)](https://skillicons.dev)
+[![Language Skills](https://skillicons.dev/icons?i=rust,c,cpp,nix,py,lua,bash,js,ts,md,html,css&theme=dark)](https://skillicons.dev)
 
 ## Other Skills
 
-[![Other Skills](https://skillicons.dev/icons?i=linux,nix,git,github,vim,neovim,emacs,firebase,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=actix,linux,git,github,vim,neovim,emacs,firebase,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
 
 
 </div>
