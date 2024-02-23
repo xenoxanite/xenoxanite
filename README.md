@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Xenoxanite</h1>
 
 
-<h3 align="center">Nerdy Logician Computer Science Guy from Bangladesh</h3>
+<h3 align="center">Nerdy Logician Computer Science Guy</h3>
 
 #
 
-My name is Xenoxanite (FAHIM).
+Linux & Rust Enjoyer
 
-I like low level programming.
+Wanna be a computer scientist
 
 I learn almost everythings like ML, Embedded, Linux, Web, Cli, Software etc...
 
@@ -27,7 +27,7 @@ Rust, Cpp and C are my Fav Langs.
 
 ## Other Skills
 
-[![Other Skills](https://skillicons.dev/icons?i=actix,linux,git,github,vim,neovim,emacs,firebase,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=actix,linux,git,github,vim,neovim,react,next,nodejs,express,mongodb,tauri&theme=dark)](https://skillicons.dev)
 
 
 </div>
